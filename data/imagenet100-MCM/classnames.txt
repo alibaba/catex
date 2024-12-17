@@ -1,0 +1,100 @@
+n03877845 palace
+n03000684 chainsaw
+n03110669 cornet
+n03710721 one-piece bathing suit
+n02825657 bell tower
+n02113186 Cardigan Welsh Corgi
+n01817953 african grey parrot
+n04239074 sliding door
+n02002556 white stork
+n04356056 sunglasses
+n03187595 rotary dial telephone
+n03355925 flagpole
+n03125729 cradle
+n02058221 albatross
+n01580077 jay
+n03016953 chiffonier
+n02843684 birdhouse
+n04371430 swim trunks / shorts
+n01944390 snail
+n03887697 paper towel
+n04037443 race car
+n02493793 Geoffroy's spider monkey
+n01518878 ostrich
+n03840681 ocarina
+n04179913 sewing machine
+n01871265 tusker
+n03866082 overskirt
+n03180011 desktop computer
+n01910747 jellyfish
+n03388549 four-poster bed
+n03908714 pencil sharpener
+n01855032 red-breasted merganser
+n02134084 polar bear
+n03400231 frying pan
+n04483307 trimaran
+n03721384 marimba
+n02033041 dowitcher
+n01775062 wolf spider
+n02808304 bath towel
+n13052670 hen of the woods mushroom
+n01601694 American dipper
+n04136333 sarong
+n03272562 electric locomotive
+n03895866 railroad car
+n03995372 power drill
+n06785654 crossword
+n02111889 Samoyed
+n03447721 gong
+n03666591 lighter
+n04376876 syringe
+n03929855 Pickelhaube
+n02128757 snow leopard
+n02326432 hare
+n07614500 ice cream
+n01695060 Komodo dragon
+n02484975 guenon
+n02105412 Australian Kelpie
+n04090263 rifle
+n03127925 crate
+n04550184 wardrobe
+n04606251 shipwreck
+n02488702 black-and-white colobus
+n03404251 fur coat
+n03633091 ladle
+n02091635 Otterhound
+n03457902 greenhouse
+n02233338 cockroach
+n02483362 gibbon
+n04461696 tow truck
+n02871525 bookstore
+n01689811 alligator lizard
+n01498041 stingray
+n02107312 Miniature Pinscher
+n01632458 spotted salamander
+n03394916 French horn
+n04147183 schooner
+n04418357 front curtain
+n03218198 dog sled
+n01917289 brain coral
+n02102318 Cocker Spaniel
+n02088364 Beagle
+n09835506 baseball player
+n02095570 Lakeland Terrier
+n03982430 pool table
+n04041544 radio
+n04562935 water tower
+n03933933 pier
+n01843065 jacamar
+n02128925 jaguar
+n02480495 orangutan
+n03425413 gas pump
+n03935335 piggy bank
+n02971356 cardboard box / carton
+n02124075 Egyptian Mau
+n07714571 cabbage
+n03133878 Crock Pot
+n02097130 Giant Schnauzer
+n02113799 Standard Poodle
+n09399592 promontory
+n03594945 jeep

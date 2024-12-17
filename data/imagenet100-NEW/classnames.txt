@@ -1,0 +1,100 @@
+n02096177 Cairn Terrier
+n03769881 minibus
+n01629819 fire salamander
+n04033995 quilt
+n04357314 sunscreen
+n02101388 Brittany dog
+n02328150 Angora rabbit
+n03729826 matchstick
+n02655020 pufferfish
+n01985128 crayfish
+n02109525 St. Bernard
+n07715103 cauliflower
+n02099429 Curly-coated Retriever
+n04517823 vacuum cleaner
+n02088632 Bluetick Coonhound
+n03207743 dishcloth
+n03657121 lens cap
+n02948072 candle
+n02106662 German Shepherd Dog
+n01631663 newt
+n09229709 bubble
+n03793489 computer mouse
+n03776460 mobile home
+n07860988 dough
+n02129604 tiger
+n03483316 hair dryer
+n02107574 Greater Swiss Mountain Dog
+n07716358 zucchini
+n04208210 shovel
+n02107908 Appenzeller Sennenhund
+n04372370 electrical switch
+n02119022 red fox
+n12144580 corn
+n01693334 European green lizard
+n04548280 wall clock
+n03785016 moped
+n03535780 gymnastic horizontal bar
+n03599486 rickshaw
+n02859443 boathouse
+n04335435 tram
+n02110341 Dalmatian
+n03902125 payphone
+n04146614 school bus
+n01774750 tarantula
+n03314780 face powder
+n03045698 cloak
+n01697457 Nile crocodile
+n02869837 poke bonnet
+n02276258 red admiral butterfly
+n04081281 restaurant
+n03956157 planetarium
+n02487347 macaque
+n04311174 steel drum
+n02094114 Norfolk Terrier
+n04409515 tennis ball
+n03028079 church
+n03384352 forklift
+n04532106 vestment
+n02087394 Rhodesian Ridgeback
+n04612504 sailboat
+n02100583 Vizsla
+n11939491 daisy
+n02107142 Dobermann
+n01669191 box turtle
+n12998815 agaric
+n04522168 vase
+n02894605 breakwater
+n03529860 home theater
+n10148035 bridegroom
+n01677366 green iguana
+n03775071 mitten
+n03208938 disc brake
+n04238763 slide rule
+n02363005 beaver
+n02804414 bassinet
+n02106382 Bouvier des Flandres dog
+n03950228 drink pitcher
+n02128385 leopard
+n02028035 common redshank
+n04099969 rocking chair
+n02481823 chimpanzee
+n01729322 eastern hog-nosed snake
+n02939185 cauldron
+n02483708 siamang
+n04162706 seat belt
+n03857828 oscilloscope
+n02093647 Bedlington Terrier
+n02927161 butcher shop
+n03160309 dam
+n02840245 ring binder
+n03920288 Petri dish
+n07871810 meatloaf
+n04404412 television
+n03947888 pirate ship
+n04509417 unicycle
+n02086910 Papillon
+n02256656 cicada
+n02412080 ram (adult male sheep)
+n02410509 bison
+n03584829 clothes iron
