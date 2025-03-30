@@ -23,7 +23,7 @@ First, follow the [DATASETS.md](DATASETS.md) to install the datasets.
 Then, check the [CATEX.md](CATEX.md) to see the detailed instructions on how to run the code to reproduce the results.
 
 ## Released models
-- [ ] We are working on it. Please stay tuned.
+- [x] Please find the pre-trained weights from [Google Drive](https://drive.google.com/file/d/1J9bpWmbfukz-3UkdTdqb8m7l3ncmjmml/view?usp=sharing)
 
 ## Citation
 If you find this repo or paper useful in your research, please kindly star this repo and cite this paper:
